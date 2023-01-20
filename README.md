@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ===================================================================================================================================
 
 
-🌍  I'm based in Indore, India<br/>
+🌍  I'm from Indore, India<br/>
 ✉️  You can contact me at gharewal12@gmail.com<br/>
 🧠  I'm learning DSA and Solidity.<br/>
 🤝  I'm open to collaborating on Cloud or Blockchain project<br/>
