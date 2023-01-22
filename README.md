@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
 <a href="http://www.github.com/gharewal12"><img src="https://github-readme-stats.vercel.app/api?username=gharewal12&show_icons=true" alt="gharewal12's GitHub stats" /></a>
 
 <a href="http://www.github.com/gharewal12"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gharewal12" /></a>
