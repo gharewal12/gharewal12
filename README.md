@@ -14,14 +14,12 @@ Here are some ideas to get you started:
 -->
 
 ### Hi All 👋 I'm Granth Gharewal
-#### A Full-stack Developer | React | .Net | Blockchain Enthusiast
+#### A Full-stack Developer | React | .Net | Azure | Typescript
 ====================================================================================================================
 
 
 🌍  I'm from Indore, India<br/>
 ✉️  You can contact me at gharewal12@gmail.com<br/>
-🧠  I'm learning DSA and Solidity.<br/>
-🤝  I'm open to collaborating on Cloud or Blockchain project<br/>
 
 ### Socials
 
