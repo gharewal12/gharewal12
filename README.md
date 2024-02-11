@@ -14,12 +14,10 @@ Here are some ideas to get you started:
 -->
 
 ### Hi All 👋 I'm Granth Gharewal
-#### A Full-stack Developer | React | .Net | Azure | Typescript
+#### A Full-stack Developer | React | Typescript | Azure | .Net
 ====================================================================================================================
 
-
-🌍  I'm from Indore, India<br/>
-✉️  You can contact me at gharewal12@gmail.com<br/>
+✉️  You can contact me at granthgharewal127@gmail.com<br/>
 
 ### Socials
 
